@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f93c7617-dd9b-47db-984c-620419cd521e)
+
 # DFRobot Fritzing-library
 
 This is the Official DFRobot [Fritzing](http://fritzing.org/) library.
