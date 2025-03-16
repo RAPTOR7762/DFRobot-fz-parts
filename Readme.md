@@ -10,4 +10,4 @@ and import the parts bin into Fritzing (File -> Open...), or you can double-clic
 
 Please go to the [Fritzing Forum Parts Help Category]([https://forum.fritzing.org](https://forum.fritzing.org/c/parts-help) to request for new parts
 
-Please give us feedback. Let us/the [fritzing forum](https://forum.fritzing.org) if there are any bugs. We will promptly make any necessary updates.
+Please give us feedback. Let us/the [fritzing forum](https://forum.fritzing.org) know if there are any bugs. We will promptly make any necessary updates.
