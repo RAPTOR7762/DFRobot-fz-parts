@@ -11,4 +11,6 @@ and import the parts bin into Fritzing (File -> Open...), or you can double-clic
 
 Please go to the [Fritzing Forum Parts Help Category](https://forum.fritzing.org/c/parts-help) to request for new parts. **Fill up the template** and you are good to go.
 
-Please give us feedback. Let us/the [fritzing forum](https://forum.fritzing.org) know if there are any bugs. We will promptly make any necessary updates.
+(Note: Due to part issues, the bin is not out yet. Please download parts from the part folder.)
+
+(Note2: This is RAPTOR7762's fixed DFR parts)
